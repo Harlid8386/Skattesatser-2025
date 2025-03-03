@@ -1,0 +1,1162 @@
+[
+  {
+    "Kommun": "ALE",
+    "Total-skatt": 32.85
+  },
+  {
+    "Kommun": "ALINGSÅS",
+    "Total-skatt": 32.84
+  },
+  {
+    "Kommun": "ALVESTA",
+    "Total-skatt": 33.42
+  },
+  {
+    "Kommun": "ANEBY",
+    "Total-skatt": 33.85
+  },
+  {
+    "Kommun": "ARBOGA",
+    "Total-skatt": 33.29
+  },
+  {
+    "Kommun": "ARJEPLOG",
+    "Total-skatt": 34.84
+  },
+  {
+    "Kommun": "ARVIDSJAUR",
+    "Total-skatt": 34.14
+  },
+  {
+    "Kommun": "ARVIKA",
+    "Total-skatt": 34.03
+  },
+  {
+    "Kommun": "ASKERSUND",
+    "Total-skatt": 34.150000000000006
+  },
+  {
+    "Kommun": "AVESTA",
+    "Total-skatt": 33.95
+  },
+  {
+    "Kommun": "BENGTSFORS",
+    "Total-skatt": 34.400000000000006
+  },
+  {
+    "Kommun": "BERG",
+    "Total-skatt": 34.22
+  },
+  {
+    "Kommun": "BJURHOLM",
+    "Total-skatt": 34.5
+  },
+  {
+    "Kommun": "BJUV",
+    "Total-skatt": 32.17
+  },
+  {
+    "Kommun": "BODEN",
+    "Total-skatt": 33.94
+  },
+  {
+    "Kommun": "BOLLEBYGD",
+    "Total-skatt": 33.07
+  },
+  {
+    "Kommun": "BOLLNÄS",
+    "Total-skatt": 33.37
+  },
+  {
+    "Kommun": "BORGHOLM",
+    "Total-skatt": 33.44
+  },
+  {
+    "Kommun": "BORLÄNGE",
+    "Total-skatt": 34.4
+  },
+  {
+    "Kommun": "BORÅS",
+    "Total-skatt": 32.79
+  },
+  {
+    "Kommun": "BOTKYRKA",
+    "Total-skatt": 32.43
+  },
+  {
+    "Kommun": "BOXHOLM",
+    "Total-skatt": 33.370000000000005
+  },
+  {
+    "Kommun": "BROMÖLLA",
+    "Total-skatt": 33.739999999999995
+  },
+  {
+    "Kommun": "BRÄCKE",
+    "Total-skatt": 35.09
+  },
+  {
+    "Kommun": "BURLÖV",
+    "Total-skatt": 31.27
+  },
+  {
+    "Kommun": "BÅSTAD",
+    "Total-skatt": 31.41
+  },
+  {
+    "Kommun": "DALS-ED",
+    "Total-skatt": 34.69
+  },
+  {
+    "Kommun": "DANDERYD",
+    "Total-skatt": 30.630000000000003
+  },
+  {
+    "Kommun": "DEGERFORS",
+    "Total-skatt": 35.3
+  },
+  {
+    "Kommun": "DOROTEA",
+    "Total-skatt": 35.15
+  },
+  {
+    "Kommun": "EDA",
+    "Total-skatt": 34.55
+  },
+  {
+    "Kommun": "EKERÖ",
+    "Total-skatt": 31.6
+  },
+  {
+    "Kommun": "EKSJÖ",
+    "Total-skatt": 34.02
+  },
+  {
+    "Kommun": "EMMABODA",
+    "Total-skatt": 33.82
+  },
+  {
+    "Kommun": "ENKÖPING",
+    "Total-skatt": 33.05
+  },
+  {
+    "Kommun": "ESKILSTUNA",
+    "Total-skatt": 32.85
+  },
+  {
+    "Kommun": "ESLÖV",
+    "Total-skatt": 31.72
+  },
+  {
+    "Kommun": "ESSUNGA",
+    "Total-skatt": 33.05
+  },
+  {
+    "Kommun": "FAGERSTA",
+    "Total-skatt": 32.99
+  },
+  {
+    "Kommun": "FALKENBERG",
+    "Total-skatt": 32.5
+  },
+  {
+    "Kommun": "FALKÖPING",
+    "Total-skatt": 33.43
+  },
+  {
+    "Kommun": "FALUN",
+    "Total-skatt": 34.05
+  },
+  {
+    "Kommun": "FILIPSTAD",
+    "Total-skatt": 34.55
+  },
+  {
+    "Kommun": "FINSPÅNG",
+    "Total-skatt": 33.7
+  },
+  {
+    "Kommun": "FLEN",
+    "Total-skatt": 33.1
+  },
+  {
+    "Kommun": "FORSHAGA",
+    "Total-skatt": 34.63
+  },
+  {
+    "Kommun": "FÄRGELANDA",
+    "Total-skatt": 34.39
+  },
+  {
+    "Kommun": "GAGNEF",
+    "Total-skatt": 34.27
+  },
+  {
+    "Kommun": "GISLAVED",
+    "Total-skatt": 33.75
+  },
+  {
+    "Kommun": "GNESTA",
+    "Total-skatt": 32.95
+  },
+  {
+    "Kommun": "GNOSJÖ",
+    "Total-skatt": 34.0
+  },
+  {
+    "Kommun": "GOTLAND",
+    "Total-skatt": 33.6
+  },
+  {
+    "Kommun": "GRUMS",
+    "Total-skatt": 34.78
+  },
+  {
+    "Kommun": "GRÄSTORP",
+    "Total-skatt": 33.47
+  },
+  {
+    "Kommun": "GULLSPÅNG",
+    "Total-skatt": 33.97
+  },
+  {
+    "Kommun": "GÄLLIVARE",
+    "Total-skatt": 33.89
+  },
+  {
+    "Kommun": "GÄVLE",
+    "Total-skatt": 33.77
+  },
+  {
+    "Kommun": "GÖTEBORG",
+    "Total-skatt": 32.6
+  },
+  {
+    "Kommun": "GÖTENE",
+    "Total-skatt": 33.6
+  },
+  {
+    "Kommun": "HABO",
+    "Total-skatt": 33.93
+  },
+  {
+    "Kommun": "HAGFORS",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "HALLSBERG",
+    "Total-skatt": 33.85
+  },
+  {
+    "Kommun": "HALLSTAHAMMAR",
+    "Total-skatt": 32.69
+  },
+  {
+    "Kommun": "HALMSTAD",
+    "Total-skatt": 32.38
+  },
+  {
+    "Kommun": "HAMMARÖ",
+    "Total-skatt": 35.2
+  },
+  {
+    "Kommun": "HANINGE",
+    "Total-skatt": 31.83
+  },
+  {
+    "Kommun": "HAPARANDA",
+    "Total-skatt": 33.84
+  },
+  {
+    "Kommun": "HEBY",
+    "Total-skatt": 34.21
+  },
+  {
+    "Kommun": "HEDEMORA",
+    "Total-skatt": 34.15
+  },
+  {
+    "Kommun": "HELSINGBORG",
+    "Total-skatt": 31.39
+  },
+  {
+    "Kommun": "HERRLJUNGA",
+    "Total-skatt": 33.42
+  },
+  {
+    "Kommun": "HJO",
+    "Total-skatt": 33.480000000000004
+  },
+  {
+    "Kommun": "HOFORS",
+    "Total-skatt": 34.37
+  },
+  {
+    "Kommun": "HUDDINGE",
+    "Total-skatt": 31.85
+  },
+  {
+    "Kommun": "HUDIKSVALL",
+    "Total-skatt": 33.12
+  },
+  {
+    "Kommun": "HULTSFRED",
+    "Total-skatt": 33.769999999999996
+  },
+  {
+    "Kommun": "HYLTE",
+    "Total-skatt": 33.85
+  },
+  {
+    "Kommun": "HÄLLEFORS",
+    "Total-skatt": 34.35
+  },
+  {
+    "Kommun": "HÄRJEDALEN",
+    "Total-skatt": 34.17
+  },
+  {
+    "Kommun": "HÄRNÖSAND",
+    "Total-skatt": 34.629999999999995
+  },
+  {
+    "Kommun": "HÄRRYDA",
+    "Total-skatt": 31.98
+  },
+  {
+    "Kommun": "HÄSSLEHOLM",
+    "Total-skatt": 32.379999999999995
+  },
+  {
+    "Kommun": "HÅBO",
+    "Total-skatt": 33.3
+  },
+  {
+    "Kommun": "HÖGANÄS",
+    "Total-skatt": 30.91
+  },
+  {
+    "Kommun": "HÖGSBY",
+    "Total-skatt": 34.07
+  },
+  {
+    "Kommun": "HÖRBY",
+    "Total-skatt": 32.26
+  },
+  {
+    "Kommun": "HÖÖR",
+    "Total-skatt": 32.93
+  },
+  {
+    "Kommun": "JOKKMOKK",
+    "Total-skatt": 34.29
+  },
+  {
+    "Kommun": "JÄRFÄLLA",
+    "Total-skatt": 31.619999999999997
+  },
+  {
+    "Kommun": "JÖNKÖPING",
+    "Total-skatt": 33.4
+  },
+  {
+    "Kommun": "KALIX",
+    "Total-skatt": 33.89
+  },
+  {
+    "Kommun": "KALMAR",
+    "Total-skatt": 33.67
+  },
+  {
+    "Kommun": "KARLSBORG",
+    "Total-skatt": 32.8
+  },
+  {
+    "Kommun": "KARLSHAMN",
+    "Total-skatt": 34.099999999999994
+  },
+  {
+    "Kommun": "KARLSKOGA",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "KARLSKRONA",
+    "Total-skatt": 33.69
+  },
+  {
+    "Kommun": "KARLSTAD",
+    "Total-skatt": 33.55
+  },
+  {
+    "Kommun": "KATRINEHOLM",
+    "Total-skatt": 32.95
+  },
+  {
+    "Kommun": "KIL",
+    "Total-skatt": 34.63
+  },
+  {
+    "Kommun": "KINDA",
+    "Total-skatt": 33.0
+  },
+  {
+    "Kommun": "KIRUNA",
+    "Total-skatt": 34.39
+  },
+  {
+    "Kommun": "KLIPPAN",
+    "Total-skatt": 31.93
+  },
+  {
+    "Kommun": "KNIVSTA",
+    "Total-skatt": 32.620000000000005
+  },
+  {
+    "Kommun": "KRAMFORS",
+    "Total-skatt": 34.43
+  },
+  {
+    "Kommun": "KRISTIANSTAD",
+    "Total-skatt": 32.64
+  },
+  {
+    "Kommun": "KRISTINEHAMN",
+    "Total-skatt": 34.25
+  },
+  {
+    "Kommun": "KROKOM",
+    "Total-skatt": 33.870000000000005
+  },
+  {
+    "Kommun": "KUMLA",
+    "Total-skatt": 33.84
+  },
+  {
+    "Kommun": "KUNGSBACKA",
+    "Total-skatt": 32.73
+  },
+  {
+    "Kommun": "KUNGSÖR",
+    "Total-skatt": 32.910000000000004
+  },
+  {
+    "Kommun": "KUNGÄLV",
+    "Total-skatt": 32.92
+  },
+  {
+    "Kommun": "KÄVLINGE",
+    "Total-skatt": 29.69
+  },
+  {
+    "Kommun": "KÖPING",
+    "Total-skatt": 33.04
+  },
+  {
+    "Kommun": "LAHOLM",
+    "Total-skatt": 32.8
+  },
+  {
+    "Kommun": "LANDSKRONA",
+    "Total-skatt": 31.419999999999998
+  },
+  {
+    "Kommun": "LAXÅ",
+    "Total-skatt": 35.0
+  },
+  {
+    "Kommun": "LEKEBERG",
+    "Total-skatt": 34.730000000000004
+  },
+  {
+    "Kommun": "LEKSAND",
+    "Total-skatt": 33.8
+  },
+  {
+    "Kommun": "LERUM",
+    "Total-skatt": 32.129999999999995
+  },
+  {
+    "Kommun": "LESSEBO",
+    "Total-skatt": 33.81
+  },
+  {
+    "Kommun": "LIDINGÖ",
+    "Total-skatt": 29.72
+  },
+  {
+    "Kommun": "LIDKÖPING",
+    "Total-skatt": 32.74
+  },
+  {
+    "Kommun": "LILLA EDET",
+    "Total-skatt": 33.85
+  },
+  {
+    "Kommun": "LINDESBERG",
+    "Total-skatt": 34.6
+  },
+  {
+    "Kommun": "LINKÖPING",
+    "Total-skatt": 31.75
+  },
+  {
+    "Kommun": "LJUNGBY",
+    "Total-skatt": 33.07
+  },
+  {
+    "Kommun": "LJUSDAL",
+    "Total-skatt": 33.87
+  },
+  {
+    "Kommun": "LJUSNARSBERG",
+    "Total-skatt": 33.8
+  },
+  {
+    "Kommun": "LOMMA",
+    "Total-skatt": 30.82
+  },
+  {
+    "Kommun": "LUDVIKA",
+    "Total-skatt": 34.05
+  },
+  {
+    "Kommun": "LULEÅ",
+    "Total-skatt": 33.84
+  },
+  {
+    "Kommun": "LUND",
+    "Total-skatt": 32.42
+  },
+  {
+    "Kommun": "LYCKSELE",
+    "Total-skatt": 34.4
+  },
+  {
+    "Kommun": "LYSEKIL",
+    "Total-skatt": 33.94
+  },
+  {
+    "Kommun": "MALMÖ",
+    "Total-skatt": 32.42
+  },
+  {
+    "Kommun": "MALUNG-SÄLEN",
+    "Total-skatt": 34.55
+  },
+  {
+    "Kommun": "MALÅ",
+    "Total-skatt": 34.7
+  },
+  {
+    "Kommun": "MARIESTAD",
+    "Total-skatt": 32.74
+  },
+  {
+    "Kommun": "MARK",
+    "Total-skatt": 32.99
+  },
+  {
+    "Kommun": "MARKARYD",
+    "Total-skatt": 33.31
+  },
+  {
+    "Kommun": "MELLERUD",
+    "Total-skatt": 34.08
+  },
+  {
+    "Kommun": "MJÖLBY",
+    "Total-skatt": 33.45
+  },
+  {
+    "Kommun": "MORA",
+    "Total-skatt": 34.32
+  },
+  {
+    "Kommun": "MOTALA",
+    "Total-skatt": 33.25
+  },
+  {
+    "Kommun": "MULLSJÖ",
+    "Total-skatt": 34.1
+  },
+  {
+    "Kommun": "MUNKEDAL",
+    "Total-skatt": 34.86
+  },
+  {
+    "Kommun": "MUNKFORS",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "MÖLNDAL",
+    "Total-skatt": 31.990000000000002
+  },
+  {
+    "Kommun": "MÖNSTERÅS",
+    "Total-skatt": 34.07
+  },
+  {
+    "Kommun": "MÖRBYLÅNGA",
+    "Total-skatt": 34.07
+  },
+  {
+    "Kommun": "NACKA",
+    "Total-skatt": 30.259999999999998
+  },
+  {
+    "Kommun": "NORA",
+    "Total-skatt": 34.55
+  },
+  {
+    "Kommun": "NORBERG",
+    "Total-skatt": 33.54
+  },
+  {
+    "Kommun": "NORDANSTIG",
+    "Total-skatt": 34.02
+  },
+  {
+    "Kommun": "NORDMALING",
+    "Total-skatt": 34.6
+  },
+  {
+    "Kommun": "NORRKÖPING",
+    "Total-skatt": 33.3
+  },
+  {
+    "Kommun": "NORRTÄLJE",
+    "Total-skatt": 32.1
+  },
+  {
+    "Kommun": "NORSJÖ",
+    "Total-skatt": 34.7
+  },
+  {
+    "Kommun": "NYBRO",
+    "Total-skatt": 34.19
+  },
+  {
+    "Kommun": "NYKVARN",
+    "Total-skatt": 32.35
+  },
+  {
+    "Kommun": "NYKÖPING",
+    "Total-skatt": 32.25
+  },
+  {
+    "Kommun": "NYNÄSHAMN",
+    "Total-skatt": 32.230000000000004
+  },
+  {
+    "Kommun": "NÄSSJÖ",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "OCKELBO",
+    "Total-skatt": 34.27
+  },
+  {
+    "Kommun": "OLOFSTRÖM",
+    "Total-skatt": 33.75
+  },
+  {
+    "Kommun": "ORSA",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "ORUST",
+    "Total-skatt": 33.79
+  },
+  {
+    "Kommun": "OSBY",
+    "Total-skatt": 33.989999999999995
+  },
+  {
+    "Kommun": "OSKARSHAMN",
+    "Total-skatt": 34.21
+  },
+  {
+    "Kommun": "OVANÅKER",
+    "Total-skatt": 33.37
+  },
+  {
+    "Kommun": "OXELÖSUND",
+    "Total-skatt": 33.05
+  },
+  {
+    "Kommun": "PAJALA",
+    "Total-skatt": 34.739999999999995
+  },
+  {
+    "Kommun": "PARTILLE",
+    "Total-skatt": 31.39
+  },
+  {
+    "Kommun": "PERSTORP",
+    "Total-skatt": 31.99
+  },
+  {
+    "Kommun": "PITEÅ",
+    "Total-skatt": 33.59
+  },
+  {
+    "Kommun": "RAGUNDA",
+    "Total-skatt": 34.92
+  },
+  {
+    "Kommun": "ROBERTSFORS",
+    "Total-skatt": 34.5
+  },
+  {
+    "Kommun": "RONNEBY",
+    "Total-skatt": 33.68
+  },
+  {
+    "Kommun": "RÄTTVIK",
+    "Total-skatt": 33.8
+  },
+  {
+    "Kommun": "SALA",
+    "Total-skatt": 33.19
+  },
+  {
+    "Kommun": "SALEM",
+    "Total-skatt": 32.050000000000004
+  },
+  {
+    "Kommun": "SANDVIKEN",
+    "Total-skatt": 33.12
+  },
+  {
+    "Kommun": "SIGTUNA",
+    "Total-skatt": 32.08
+  },
+  {
+    "Kommun": "SIMRISHAMN",
+    "Total-skatt": 31.69
+  },
+  {
+    "Kommun": "SJÖBO",
+    "Total-skatt": 32.1
+  },
+  {
+    "Kommun": "SKARA",
+    "Total-skatt": 33.379999999999995
+  },
+  {
+    "Kommun": "SKELLEFTEÅ",
+    "Total-skatt": 33.95
+  },
+  {
+    "Kommun": "SKINNSKATTEBERG",
+    "Total-skatt": 33.34
+  },
+  {
+    "Kommun": "SKURUP",
+    "Total-skatt": 31.6
+  },
+  {
+    "Kommun": "SKÖVDE",
+    "Total-skatt": 33.09
+  },
+  {
+    "Kommun": "SMEDJEBACKEN",
+    "Total-skatt": 34.44
+  },
+  {
+    "Kommun": "SOLLEFTEÅ",
+    "Total-skatt": 34.68
+  },
+  {
+    "Kommun": "SOLLENTUNA",
+    "Total-skatt": 30.5
+  },
+  {
+    "Kommun": "SOLNA",
+    "Total-skatt": 29.75
+  },
+  {
+    "Kommun": "SORSELE",
+    "Total-skatt": 34.95
+  },
+  {
+    "Kommun": "SOTENÄS",
+    "Total-skatt": 33.47
+  },
+  {
+    "Kommun": "STAFFANSTORP",
+    "Total-skatt": 30.27
+  },
+  {
+    "Kommun": "STENUNGSUND",
+    "Total-skatt": 33.120000000000005
+  },
+  {
+    "Kommun": "STOCKHOLM",
+    "Total-skatt": 30.6
+  },
+  {
+    "Kommun": "STORFORS",
+    "Total-skatt": 34.98
+  },
+  {
+    "Kommun": "STORUMAN",
+    "Total-skatt": 34.45
+  },
+  {
+    "Kommun": "STRÄNGNÄS",
+    "Total-skatt": 32.5
+  },
+  {
+    "Kommun": "STRÖMSTAD",
+    "Total-skatt": 33.39
+  },
+  {
+    "Kommun": "STRÖMSUND",
+    "Total-skatt": 34.92
+  },
+  {
+    "Kommun": "SUNDBYBERG",
+    "Total-skatt": 31.630000000000003
+  },
+  {
+    "Kommun": "SUNDSVALL",
+    "Total-skatt": 33.879999999999995
+  },
+  {
+    "Kommun": "SUNNE",
+    "Total-skatt": 33.9
+  },
+  {
+    "Kommun": "SURAHAMMAR",
+    "Total-skatt": 33.19
+  },
+  {
+    "Kommun": "SVALÖV",
+    "Total-skatt": 31.919999999999998
+  },
+  {
+    "Kommun": "SVEDALA",
+    "Total-skatt": 31.419999999999998
+  },
+  {
+    "Kommun": "SVENLJUNGA",
+    "Total-skatt": 33.53
+  },
+  {
+    "Kommun": "SÄFFLE",
+    "Total-skatt": 33.8
+  },
+  {
+    "Kommun": "SÄTER",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "SÄVSJÖ",
+    "Total-skatt": 33.68
+  },
+  {
+    "Kommun": "SÖDERHAMN",
+    "Total-skatt": 33.17
+  },
+  {
+    "Kommun": "SÖDERKÖPING",
+    "Total-skatt": 33.53
+  },
+  {
+    "Kommun": "SÖDERTÄLJE",
+    "Total-skatt": 32.53
+  },
+  {
+    "Kommun": "SÖLVESBORG",
+    "Total-skatt": 33.86
+  },
+  {
+    "Kommun": "TANUM",
+    "Total-skatt": 33.04
+  },
+  {
+    "Kommun": "TIBRO",
+    "Total-skatt": 33.19
+  },
+  {
+    "Kommun": "TIDAHOLM",
+    "Total-skatt": 33.55
+  },
+  {
+    "Kommun": "TIERP",
+    "Total-skatt": 33.0
+  },
+  {
+    "Kommun": "TIMRÅ",
+    "Total-skatt": 34.480000000000004
+  },
+  {
+    "Kommun": "TINGSRYD",
+    "Total-skatt": 34.0
+  },
+  {
+    "Kommun": "TJÖRN",
+    "Total-skatt": 33.19
+  },
+  {
+    "Kommun": "TOMELILLA",
+    "Total-skatt": 31.79
+  },
+  {
+    "Kommun": "TORSBY",
+    "Total-skatt": 34.3
+  },
+  {
+    "Kommun": "TORSÅS",
+    "Total-skatt": 33.79
+  },
+  {
+    "Kommun": "TRANEMO",
+    "Total-skatt": 32.980000000000004
+  },
+  {
+    "Kommun": "TRANÅS",
+    "Total-skatt": 33.77
+  },
+  {
+    "Kommun": "TRELLEBORG",
+    "Total-skatt": 31.58
+  },
+  {
+    "Kommun": "TROLLHÄTTAN",
+    "Total-skatt": 33.84
+  },
+  {
+    "Kommun": "TROSA",
+    "Total-skatt": 32.13
+  },
+  {
+    "Kommun": "TYRESÖ",
+    "Total-skatt": 31.880000000000003
+  },
+  {
+    "Kommun": "TÄBY",
+    "Total-skatt": 29.93
+  },
+  {
+    "Kommun": "TÖREBODA",
+    "Total-skatt": 33.2
+  },
+  {
+    "Kommun": "UDDEVALLA",
+    "Total-skatt": 33.64
+  },
+  {
+    "Kommun": "ULRICEHAMN",
+    "Total-skatt": 32.53
+  },
+  {
+    "Kommun": "UMEÅ",
+    "Total-skatt": 34.15
+  },
+  {
+    "Kommun": "UPPLANDS VÄSBY",
+    "Total-skatt": 31.800000000000004
+  },
+  {
+    "Kommun": "UPPLANDS-BRO",
+    "Total-skatt": 31.78
+  },
+  {
+    "Kommun": "UPPSALA",
+    "Total-skatt": 32.85
+  },
+  {
+    "Kommun": "UPPVIDINGE",
+    "Total-skatt": 33.8
+  },
+  {
+    "Kommun": "VADSTENA",
+    "Total-skatt": 34.35
+  },
+  {
+    "Kommun": "VAGGERYD",
+    "Total-skatt": 33.25
+  },
+  {
+    "Kommun": "VALDEMARSVIK",
+    "Total-skatt": 34.03
+  },
+  {
+    "Kommun": "VALLENTUNA",
+    "Total-skatt": 31.28
+  },
+  {
+    "Kommun": "VANSBRO",
+    "Total-skatt": 34.28
+  },
+  {
+    "Kommun": "VARA",
+    "Total-skatt": 33.25
+  },
+  {
+    "Kommun": "VARBERG",
+    "Total-skatt": 31.729999999999997
+  },
+  {
+    "Kommun": "VAXHOLM",
+    "Total-skatt": 31.68
+  },
+  {
+    "Kommun": "VELLINGE",
+    "Total-skatt": 29.68
+  },
+  {
+    "Kommun": "VETLANDA",
+    "Total-skatt": 33.77
+  },
+  {
+    "Kommun": "VILHELMINA",
+    "Total-skatt": 35.0
+  },
+  {
+    "Kommun": "VIMMERBY",
+    "Total-skatt": 34.22
+  },
+  {
+    "Kommun": "VINDELN",
+    "Total-skatt": 34.7
+  },
+  {
+    "Kommun": "VINGÅKER",
+    "Total-skatt": 33.5
+  },
+  {
+    "Kommun": "VÄNERSBORG",
+    "Total-skatt": 33.69
+  },
+  {
+    "Kommun": "VÄNNÄS",
+    "Total-skatt": 34.7
+  },
+  {
+    "Kommun": "VÄRMDÖ",
+    "Total-skatt": 31.36
+  },
+  {
+    "Kommun": "VÄRNAMO",
+    "Total-skatt": 33.28
+  },
+  {
+    "Kommun": "VÄSTERVIK",
+    "Total-skatt": 33.019999999999996
+  },
+  {
+    "Kommun": "VÄSTERÅS",
+    "Total-skatt": 31.240000000000002
+  },
+  {
+    "Kommun": "VÄXJÖ",
+    "Total-skatt": 32.19
+  },
+  {
+    "Kommun": "VÅRGÅRDA",
+    "Total-skatt": 33.09
+  },
+  {
+    "Kommun": "YDRE",
+    "Total-skatt": 34.1
+  },
+  {
+    "Kommun": "YSTAD",
+    "Total-skatt": 31.29
+  },
+  {
+    "Kommun": "ÄLMHULT",
+    "Total-skatt": 33.86
+  },
+  {
+    "Kommun": "ÄLVDALEN",
+    "Total-skatt": 34.77
+  },
+  {
+    "Kommun": "ÄLVKARLEBY",
+    "Total-skatt": 34.400000000000006
+  },
+  {
+    "Kommun": "ÄLVSBYN",
+    "Total-skatt": 33.79
+  },
+  {
+    "Kommun": "ÄNGELHOLM",
+    "Total-skatt": 31.47
+  },
+  {
+    "Kommun": "ÅMÅL",
+    "Total-skatt": 33.94
+  },
+  {
+    "Kommun": "ÅNGE",
+    "Total-skatt": 34.62
+  },
+  {
+    "Kommun": "ÅRE",
+    "Total-skatt": 33.92
+  },
+  {
+    "Kommun": "ÅRJÄNG",
+    "Total-skatt": 34.25
+  },
+  {
+    "Kommun": "ÅSELE",
+    "Total-skatt": 34.95
+  },
+  {
+    "Kommun": "ÅSTORP",
+    "Total-skatt": 31.47
+  },
+  {
+    "Kommun": "ÅTVIDABERG",
+    "Total-skatt": 33.94
+  },
+  {
+    "Kommun": "ÖCKERÖ",
+    "Total-skatt": 33.04
+  },
+  {
+    "Kommun": "ÖDESHÖG",
+    "Total-skatt": 33.95
+  },
+  {
+    "Kommun": "ÖREBRO",
+    "Total-skatt": 33.650000000000006
+  },
+  {
+    "Kommun": "ÖRKELLJUNGA",
+    "Total-skatt": 30.24
+  },
+  {
+    "Kommun": "ÖRNSKÖLDSVIK",
+    "Total-skatt": 34.0
+  },
+  {
+    "Kommun": "ÖSTERSUND",
+    "Total-skatt": 33.72
+  },
+  {
+    "Kommun": "ÖSTERÅKER",
+    "Total-skatt": 28.980000000000004
+  },
+  {
+    "Kommun": "ÖSTHAMMAR",
+    "Total-skatt": 33.35
+  },
+  {
+    "Kommun": "ÖSTRA GÖINGE",
+    "Total-skatt": 32.17
+  },
+  {
+    "Kommun": "ÖVERKALIX",
+    "Total-skatt": 34.14
+  },
+  {
+    "Kommun": "ÖVERTORNEÅ",
+    "Total-skatt": 33.84
+  }
+]
